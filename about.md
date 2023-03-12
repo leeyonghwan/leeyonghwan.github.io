@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-This is an example page!
+This is Lee yong hwan blog
 
 Actually, it has the same layout of a post...
